@@ -1,0 +1,93 @@
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+c:\users\professor\documents\visual studio 2017\Projects\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Dropbox\Zaki Bhai\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Dropbox\Zaki Bhai\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\V1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Muhammad zaki\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Dropbox\Zaki Bhai\v2\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\V3.1\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Editor.resources
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.Properties.Resources.resources
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.GenerateResource.Cache
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe.config
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.exe
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\bin\Debug\FYPUrduCompiler.pdb
+C:\Users\Professor\Desktop\v3\FYPUrduCompiler\FYPUrduCompiler\obj\Debug\FYPUrduCompiler.csproj.ResolveComReference.cache
